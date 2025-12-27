@@ -1,6 +1,6 @@
 # Image Processing Benchmark & Hybridization Suite
 
-A comprehensive Computer Vision benchmarking tool built with Python and Streamlit. This project allows users to compare various image processing algorithms (week 3-10 syllabus) and create hybrid combinations of algorithms.
+A comprehensive Computer Vision benchmarking tool built with Python and Streamlit. This project allows users to compare various image processing algorithms  and create hybrid combinations of algorithms.
 
 ## 🚀 Features
 
